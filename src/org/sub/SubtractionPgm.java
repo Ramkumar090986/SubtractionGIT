@@ -8,6 +8,8 @@ public class SubtractionPgm {
 		
 		res=a-b;
 		
+		System.out.println("Subtraction Program")
+		;
 		System.out.println("Subtraction of two numbers:"+res);
 		
 	}
